@@ -1,4 +1,5 @@
-forked from https://github.com/radionerd/ms8236usb
+This project is based on radionerd's Data logging software USB driver for the Hyelec/Peakmeter MS8236 multimeter:
+https://github.com/radionerd/ms8236usb
 
 HYELEC/PEAKMETER MS8236 USB DRIVER FOR LINUX
 --------------------------------------------
